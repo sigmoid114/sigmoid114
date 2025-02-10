@@ -5,5 +5,5 @@
 </picture>
 
 
-![](.\res\5cd8914f5bc575ee1e64bc77685a1ac9.jpg)
+![](res/5cd8914f5bc575ee1e64bc77685a1ac9.jpg)
 
